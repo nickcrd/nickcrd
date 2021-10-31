@@ -1,11 +1,10 @@
 ### Hi, I'm Nick 👋
-I'm a 18 y/o developer from Switzerland 🇨🇭
+I'm a 19 y/o developer from Switzerland 🇨🇭. Currently studying Computer Science at ETH Zürich.
 
-### 🌟 Languages...
-I have experience working with projects in Java ☕️ and I absolutely love working with Swift 🔥 and JavaScript/Typescript ✨. Started learning React ⚛ as well.
+### 🌟 What I do and what tools I work with...
+I'm a full-stack software developer, lately doing a lots of web development as a freelancer and working on smaller projects during my freetime.
 
-### 🌱 Currently working on...
-I'm working on a project named **Trable**. Trable is an indoor localization app powered by Bluetooth Low-Energy trilateration. It features a native iOS App in Swift  and a backend written in Typescript, based on the Express framework. Really appreciate any feedback, so make sure to check it out.
+For backend development, I use either Java or Node.js (JavaScript) to get the task done. For web development, my favorites are Next.js and TailwindCSS. You can also catch me writing iOS Apps using Swift and UIKit -- sometimes even messing around with SwiftUI. 
 
 ### 📫 Contact me...
-Send me a DM on Discord @nickcrd#1001 or via email nc@nickcrd.dev
+Send me a DM on Discord @nickcrd#1001 or via email nick@nickcrd.dev
