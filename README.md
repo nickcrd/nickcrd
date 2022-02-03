@@ -7,4 +7,4 @@ I'm a full-stack software developer, lately doing a lots of web development as a
 For backend development, I use either Java or Node.js (JavaScript) to get the task done. For web development, my favorites are Next.js and TailwindCSS. You can also catch me writing iOS Apps using Swift and UIKit -- sometimes even messing around with SwiftUI. 
 
 ### 📫 Contact me...
-You can reach me per mail (nick@nickcrd.dev)[mailto:nick@nickcrd.dev] or via Discord @nickcrd#1001.
+You can reach me per E-Mail [nick@nickcrd.dev](mailto:nick@nickcrd.dev) or via Discord @nickcrd#1001.
